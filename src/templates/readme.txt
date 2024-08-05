@@ -1,0 +1,1 @@
+The template folder contains the template structure of the project. For example, the homepage and child page always have a header and footer so we can create a template containing a header and footer

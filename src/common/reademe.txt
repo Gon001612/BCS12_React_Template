@@ -1,0 +1,1 @@
+Have files setup some values in project. Exmaple: path(đường đẫn), validation

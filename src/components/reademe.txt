@@ -1,0 +1,1 @@
+Components folder contain reusable componennts in project or structuer layouts need to be broken down. Note: If this component doesn't reusable many times, shouldn't be broken down this component.

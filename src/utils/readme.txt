@@ -1,0 +1,1 @@
+The util contains the function reused in the project. For example, you create a page about learing, need check deadline exercise at many places you must create a privete function check deadline.  
